@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PowerUpBehavior : MonoBehaviour {
+
     public PowerUpBase PowerUp;
-    private void OnMouseDown()
+
+	void OnTriggerEnter()
     {
-        Debug.Log(PowerUp.PowerLevel);  
+        PowerUp.RunPowerUp();
+        gameObject.SetActive(false);
     }
 }
