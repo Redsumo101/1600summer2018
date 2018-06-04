@@ -5,11 +5,10 @@ using UnityEngine;
 public class PlayerTrigger : MonoBehaviour
 {
 
-	public float HealthLevel = 1.0f;
+	public FloatData HealthLevel;
+	public FloatData EvilPower;
 
-	public HealthBehavior PlayerHealthBehavior;
-
-	public float EvilPower = 0.1f;
+	
 	// Use this for initialization
 	void Start () {
 		
@@ -18,8 +17,8 @@ public class PlayerTrigger : MonoBehaviour
 	// Update is called once per frame
 	void OnTriggerEnter ()
 	{
-		HealthLevel -= EvilPower;
-		PlayerHealthBehavior.HealthLevel = HealthLevel;
+		HealthLevel.Value -= EvilPower.Value;
+	
 
 	}
 }

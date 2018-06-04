@@ -15,6 +15,7 @@
             <e p="Mammal.cs" t="Include" />
           </e>
           <e p="Healthbar" t="Include">
+            <e p="FloatData.cs" t="Include" />
             <e p="HealthBehavior.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
