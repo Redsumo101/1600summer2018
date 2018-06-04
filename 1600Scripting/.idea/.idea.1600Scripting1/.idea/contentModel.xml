@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10853363\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_1600Scripting1.-18637317.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10853363\Downloads\Git\1600summer2018\1600Scripting" t="IncludeRecursive">
+      <e p="1600Scripting.csproj" t="IncludeRecursive" />
+      <e p="1600Scripting1.sln" t="IncludeFlat" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Animals" t="Include">
+            <e p="Animal.cs" t="Include" />
+            <e p="AnimalBehavior.cs" t="Include" />
+            <e p="Bird.cs" t="Include" />
+            <e p="Lizard.cs" t="Include" />
+            <e p="Mammal.cs" t="Include" />
+          </e>
+          <e p="PowerUp" t="Include">
+            <e p="AmmoPowerUp.cs" t="Include" />
+            <e p="HealthPowerUp.cs" t="Include" />
+            <e p="PowerUpBase.cs" t="Include" />
+            <e p="PowerUpBehavior.cs" t="Include" />
+            <e p="ReverseSpin.cs" t="Include" />
+            <e p="Spin.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Mammal.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="UnityVS_bin\Debug" t="ExcludeRecursive" />
+        <e p="UnityVS_obj\Debug" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
