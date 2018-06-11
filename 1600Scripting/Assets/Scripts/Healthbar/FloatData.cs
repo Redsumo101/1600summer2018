@@ -2,10 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class AmmoPowerUp : PowerUpBase {
+public class FloatData : ScriptableObject
+{
 
-<<<<<<< HEAD
-=======
-	
->>>>>>> master
+	[Range(0,1)] public float Value;
 }
