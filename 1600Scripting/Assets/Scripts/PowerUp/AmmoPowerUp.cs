@@ -4,8 +4,5 @@ using UnityEngine;
 [CreateAssetMenu]
 public class AmmoPowerUp : PowerUpBase {
 
-<<<<<<< HEAD
-=======
-	
->>>>>>> master
+
 }
