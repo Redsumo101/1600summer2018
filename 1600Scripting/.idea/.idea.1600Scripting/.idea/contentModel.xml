@@ -15,10 +15,13 @@
             <e p="mammal.cs" t="Include" />
           </e>
           <e p="Healthbar" t="Include">
+            <e p="ChangeColorUI.cs" t="Include" />
+            <e p="ColorBehavior.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="HealthBehavior.cs" t="Include" />
           </e>
           <e p="Player" t="Include">
+            <e p="MovePlayer.cs" t="Include" />
             <e p="PlayerTrigger.cs" t="Include" />
           </e>
           <e p="PowerUp" t="Include">
