@@ -10,22 +10,32 @@ public class MovePlayer : MonoBehaviour
 	public float Speed = 10.0f;
 	public float Gravity = 9.81f;
 	public float JumpSpeed = 10.0f;
+	public bool CanRun = true;
 	
 	// Use this for initialization
 	void Start ()
 	{
 		controller = GetComponent<CharacterController>();
-	}
+
+		}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space) && controller.isGrounded)
 		{
 			newPosition.y = JumpSpeed;
 		}
 		newPosition.y -= Gravity;
-		newPosition.x = Speed*Input.GetAxis("Horizontal");
+
+		if (CanRun)
+		{
+			newPosition.x = Speed * Input.GetAxis("Horizontal");
+		}
+
 		controller.Move(newPosition * Time.deltaTime);
+		
+		
 	}
+	
 }
