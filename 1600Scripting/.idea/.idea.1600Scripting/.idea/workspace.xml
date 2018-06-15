@@ -82,6 +82,7 @@
       <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="450">
               <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
               <folding>
@@ -106,6 +107,18 @@
                 <marker date="1528910494878" expanded="true" signature="156:250" ph="{...}" />
                 <marker date="1528910494878" expanded="true" signature="177:207" ph="{...}" />
                 <marker date="1528910494878" expanded="true" signature="214:245" ph="{...}" />
+=======
+            <state relative-caret-position="527">
+              <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <folding>
+                <marker date="1528944066770" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528944066770" expanded="true" signature="119:894" ph="{...}" />
+                <marker date="1528944066770" expanded="true" signature="407:465" ph="{...}" />
+                <marker date="1528944066770" expanded="true" signature="519:890" ph="{...}" />
+                <marker date="1528944066770" expanded="true" signature="557:596" ph="{...}" />
+                <marker date="1528944066770" expanded="true" signature="633:671" ph="{...}" />
+                <marker date="1528944066770" expanded="true" signature="710:749" ph="{...}" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -197,6 +210,13 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="Scratches" />
+<<<<<<< Updated upstream
+=======
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,12 +255,20 @@
       <workItem from="1528740513002" duration="2347000" />
       <workItem from="1528758691924" duration="4405000" />
       <workItem from="1528861844663" duration="74000" />
+<<<<<<< Updated upstream
       <workItem from="1528906990340" duration="4146000" />
+=======
+      <workItem from="1528936797764" duration="3445000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="10972000" />
+=======
+    <option name="totallyTimeSpent" value="10271000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,16 +281,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< Updated upstream
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.23638344" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32575756" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.029317698" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.029317698" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,65 +336,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
+<<<<<<< Updated upstream
+=======
+          <folding>
+            <marker date="1528740259339" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528740259339" expanded="true" signature="126:207" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animals/Mammal.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="60">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+=======
+        <state relative-caret-position="34">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1528740259369" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528740259369" expanded="true" signature="128:207" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animals/Animal.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="135">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+=======
+        <state relative-caret-position="119">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1528742096532" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528742096532" expanded="true" signature="137:256" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animals/AnimalBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="195">
           <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+=======
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <marker date="1528740568000" expanded="true" signature="8:80" ph="..." />
+            <marker date="1528740568000" expanded="true" signature="126:276" ph="{...}" />
+            <marker date="1528740568000" expanded="true" signature="205:212" ph="{...}" />
+            <marker date="1528740568000" expanded="true" signature="267:274" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp/AmmoPowerUp.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+=======
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1528740610940" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528740610940" expanded="true" signature="136:141" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="165">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+=======
+        <state relative-caret-position="153">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1528742335143" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528742335143" expanded="true" signature="223:275" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Healthbar/ChangeColorUI.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="300">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <marker date="1528905352747" expanded="false" signature="6:100" ph="..." />
             <marker date="1528905352747" expanded="true" signature="167:309" ph="{...}" />
             <marker date="1528905352747" expanded="true" signature="243:296" ph="{...}" />
+=======
+        <state relative-caret-position="289">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1528758850525" expanded="false" signature="6:100" ph="..." />
+            <marker date="1528758850525" expanded="true" signature="167:309" ph="{...}" />
+            <marker date="1528758850525" expanded="true" signature="243:296" ph="{...}" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Healthbar/ColorBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="210">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+=======
+        <state relative-caret-position="187">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <marker date="1528759328391" expanded="false" signature="6:100" ph="..." />
+            <marker date="1528759328391" expanded="true" signature="144:287" ph="{...}" />
+            <marker date="1528759328391" expanded="true" signature="230:281" ph="{...}" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/MovePlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="360">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
@@ -364,10 +478,28 @@
             <marker date="1528910580964" expanded="true" signature="477:748" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="544:582" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="625:689" ph="{...}" />
+=======
+        <state relative-caret-position="374">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <marker date="1528944066770" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528944066770" expanded="true" signature="119:894" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="407:465" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="519:890" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="557:596" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="633:671" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="710:749" ph="{...}" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp/PowerUpBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -441,12 +573,22 @@
         <state relative-caret-position="136">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
+<<<<<<< Updated upstream
             <marker date="1528910580964" expanded="false" signature="6:78" ph="..." />
             <marker date="1528910580964" expanded="true" signature="119:752" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="363:423" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="477:748" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="544:582" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="625:689" ph="{...}" />
+=======
+            <marker date="1528944066770" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528944066770" expanded="true" signature="119:894" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="407:465" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="519:890" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="557:596" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="633:671" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="710:749" ph="{...}" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -580,6 +722,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://C:/Program Files/Unity/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -611,6 +754,20 @@
             <marker date="1528910580964" expanded="true" signature="477:748" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="544:582" ph="{...}" />
             <marker date="1528910580964" expanded="true" signature="625:689" ph="{...}" />
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/MovePlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding>
+            <marker date="1528944066770" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528944066770" expanded="true" signature="119:894" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="407:465" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="519:890" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="557:596" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="633:671" ph="{...}" />
+            <marker date="1528944066770" expanded="true" signature="710:749" ph="{...}" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
