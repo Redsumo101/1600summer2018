@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad6569d5340a699499873bc73d425140, type: 3}
-  m_Name: Health
+  m_Script: {fileID: 11500000, guid: 61acb189edea09a439bdde1d0ccd6d34, type: 3}
+  m_Name: Spear
   m_EditorClassIdentifier: 
-  Value: 0.4999999
+  DamageLevel: 6

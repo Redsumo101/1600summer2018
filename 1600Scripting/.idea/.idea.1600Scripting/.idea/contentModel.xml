@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Riley\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_1600Scripting.-1607826257.00" t="ExcludeRecursive" />
-    <e p="F:\ProgramsForSchool\1600summer2018\1600Scripting" t="IncludeRecursive">
+    <e p="C:\Users\10853363\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_1600Scripting.605918967.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10853363\Documents\Git\1600summer2018\1600Scripting" t="IncludeRecursive">
       <e p="1600Scripting.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -31,6 +31,10 @@
             <e p="PowerUpBase.cs" t="Include" />
             <e p="PowerUpBehavior.cs" t="Include" />
             <e p="Spin.cs" t="Include" />
+          </e>
+          <e p="Weapons" t="Include">
+            <e p="WeaponObject.cs" t="Include" />
+            <e p="Weapons.cs" t="Include" />
           </e>
         </e>
       </e>
