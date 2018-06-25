@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aea8162b65b660f4ebf91f0942b741ee
+timeCreated: 1529947330
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Ammo: {fileID: 1305467416464258, guid: d11171c806e81e341971de49ba068d2e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
