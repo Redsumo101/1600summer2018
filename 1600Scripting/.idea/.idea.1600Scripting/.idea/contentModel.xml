@@ -14,6 +14,10 @@
             <e p="Lizard.cs" t="Include" />
             <e p="mammal.cs" t="Include" />
           </e>
+          <e p="BodyParts" t="Include">
+            <e p="BodyPartCollection.cs" t="Include" />
+            <e p="BodyParts.cs" t="Include" />
+          </e>
           <e p="Healthbar" t="Include">
             <e p="ChangeColorUI.cs" t="Include" />
             <e p="ColorBehavior.cs" t="Include" />
@@ -33,6 +37,8 @@
             <e p="Spin.cs" t="Include" />
           </e>
           <e p="Weapons" t="Include">
+            <e p="Ammo.cs" t="Include" />
+            <e p="FireAmmo.cs" t="Include" />
             <e p="WeaponObject.cs" t="Include" />
             <e p="WeaponPickUp.cs" t="Include" />
             <e p="Weapons.cs" t="Include" />

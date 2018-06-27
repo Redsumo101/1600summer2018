@@ -8,8 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 501fabcf87cbd464382975d7c37f3ec6, type: 3}
+  m_Script: {fileID: 11500000, guid: fed9c7b8b48ff0642a6c79de2e29a24e, type: 3}
   m_Name: WeaponsCollection
   m_EditorClassIdentifier: 
-  Weapons:
-  - {fileID: 11400000, guid: 95d31d7c325b12a4e9bd9fc0b1a64f72, type: 2}
+  Weapons: []
