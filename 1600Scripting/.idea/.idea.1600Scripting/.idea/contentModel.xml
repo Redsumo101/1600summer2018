@@ -34,7 +34,9 @@
           </e>
           <e p="Weapons" t="Include">
             <e p="WeaponObject.cs" t="Include" />
+            <e p="WeaponPickUp.cs" t="Include" />
             <e p="Weapons.cs" t="Include" />
+            <e p="WeaponsCollection.cs" t="Include" />
           </e>
         </e>
       </e>
