@@ -8,19 +8,25 @@ public class AISpawner : MonoBehaviour
 
 	public GameObject Ai;
 	public Transform Destination;
+	public Level CurrentLevel;
+	public int aiCount;
 	private void Start ()
+
 	{
+		aiCount = CurrentLevel.AiCount;
 		StartCoroutine(StartSpawn());
 	}
 
-	IEnumerator StartSpawn()
+	private IEnumerator StartSpawn()
 	{
-		while (true)
+		while (aiCount > 0)
 		{
 			GameObject newAI = Instantiate(Ai);
 			newAI.GetComponent<AIMovement>().Destination = Destination;
+			aiCount--;
+			
 			yield return new WaitForSeconds(2);
-
-		}
+			}
+		CurrentLevel.CheckAiCount(aiCount);
 	}
 }
