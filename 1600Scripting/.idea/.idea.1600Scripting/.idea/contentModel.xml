@@ -52,6 +52,14 @@
             <e p="PowerUpBehavior.cs" t="Include" />
             <e p="Spin.cs" t="Include" />
           </e>
+          <e p="Practice&amp;Notes" t="Include">
+            <e p="Ending.cs" t="Include" />
+            <e p="FunctionTypes.cs" t="Include" />
+            <e p="GameState.cs" t="Include" />
+            <e p="GameStateBase.cs" t="Include" />
+            <e p="Playing.cs" t="Include" />
+            <e p="Starting.cs" t="Include" />
+          </e>
           <e p="RPG Assets" t="Include">
             <e p="Player" t="Include">
               <e p="CameraController.cs" t="Include" />
