@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
 	private Camera cam;
 	public LayerMask movementMask;
 	private PlayerMotor motor;
+	public Interactable Focus;
 	void Start () {
 		cam = Camera.main;
 		motor = GetComponent<PlayerMotor>();
@@ -23,9 +24,9 @@ public class PlayerController : MonoBehaviour
 			if (Physics.Raycast(ray, out hit, 100, movementMask))
 			{
 				motor.MoveToPoint(hit.point);
-				//Move player to the click point
 				
-				
+				//Stop focusing on the object so the player can move
+				RemoveFocus();
 			}
 		}
 		if (Input.GetMouseButtonDown(1))
@@ -35,11 +36,26 @@ public class PlayerController : MonoBehaviour
 
 			if (Physics.Raycast(ray, out hit, 100))
 			{
-				//Click to see if interactiable
-				
-				
-				
+				Interactable interactable = hit.collider.GetComponent<Interactable>();
+				if (interactable != null)
+				{
+					SetFocus(interactable);
+				}
+
+
 			}
 		}
+	}
+
+	void SetFocus(Interactable newFocus)
+	{
+		Focus = newFocus;
+		motor.FollowTarget(newFocus);
+	}
+
+	void RemoveFocus()
+	{
+		Focus = null;
+		motor.StopFollowingTarget();
 	}
 }
