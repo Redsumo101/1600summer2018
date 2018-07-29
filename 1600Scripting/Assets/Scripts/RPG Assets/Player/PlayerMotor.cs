@@ -32,7 +32,7 @@ public class PlayerMotor : MonoBehaviour
 		//this is so that even though the player is in the max distance of the interactable it will still turn to face the object if it moves 
 		agent.stoppingDistance = newTarget.radius * .8f;
 		agent.updateRotation = false;
-		target = newTarget.transform;
+		target = newTarget.interactionTransform;
 	}
 
 	public void StopFollowingTarget()
