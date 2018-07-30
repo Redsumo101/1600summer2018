@@ -7,8 +7,13 @@ public class ArmorPickUp : MonoBehaviour
 
 	public ArmorObject Armor;
 	public ArmorCollection Collection;
+	
 	private void OnTriggerEnter(Collider obj)
+	
 	{
 		Collection.CollectArmor(Armor);
+		
 	}
+
+	
 }

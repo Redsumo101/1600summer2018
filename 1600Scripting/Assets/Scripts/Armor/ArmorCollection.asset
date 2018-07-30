@@ -11,9 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 028bb2dcc6994564db785ef77de50cf3, type: 3}
   m_Name: ArmorCollection
   m_EditorClassIdentifier: 
-  Armor:
-  - {fileID: 11400000, guid: 5d119a962f21b7845bf586f9deea5058, type: 2}
-  - {fileID: 11400000, guid: 9792a21132a0db345a2ed9fc35d38acb, type: 2}
-  - {fileID: 11400000, guid: 23792a58c6083704cafddffc4c073e54, type: 2}
-  - {fileID: 11400000, guid: bd854bee2f917b64888f3b54626d0062, type: 2}
-  - {fileID: 11400000, guid: 645265ef41dce6d43bca8ea1d8c44c16, type: 2}
+  Armor: []
