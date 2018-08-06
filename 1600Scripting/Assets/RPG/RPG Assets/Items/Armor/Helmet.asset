@@ -8,7 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad6569d5340a699499873bc73d425140, type: 3}
-  m_Name: Health
+  m_Script: {fileID: 11500000, guid: f080d23616ce749479a683bb36aa28bb, type: 3}
+  m_Name: Helmet
   m_EditorClassIdentifier: 
-  Value: 1
+  name: Helmet
+  Icon: {fileID: 0}
+  isDefaultItem: 0

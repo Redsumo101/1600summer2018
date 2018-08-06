@@ -5,8 +5,8 @@ using UnityEngine.AI;
 [RequireComponent(typeof(NavMeshAgent))]
 public class PlayerMotor : MonoBehaviour
 {
-	private Transform target;
-	private NavMeshAgent agent;
+	 Transform target;
+	 NavMeshAgent agent;
 	// Use this for initialization
 	void Start ()
 	{
@@ -37,6 +37,7 @@ public class PlayerMotor : MonoBehaviour
 
 	public void StopFollowingTarget()
 	{
+		agent.stoppingDistance = 0f;
 		target = null;
 		agent.updateRotation = true;
 	}

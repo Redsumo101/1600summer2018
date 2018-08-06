@@ -23,4 +23,5 @@ public class HealthBehavior : MonoBehaviour
 	{
 		HealthImage.fillAmount = HealthLevel.Value;
 	}
+
 }
