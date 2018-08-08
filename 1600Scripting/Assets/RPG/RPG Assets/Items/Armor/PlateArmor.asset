@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f080d23616ce749479a683bb36aa28bb, type: 3}
   m_Name: PlateArmor
   m_EditorClassIdentifier: 
-  name: New Item
-  Icon: {fileID: 0}
+  name: PlateArmor
+  Icon: {fileID: 21300000, guid: 7b2d27d6972e50d48855cfd20305c699, type: 3}
   isDefaultItem: 0
