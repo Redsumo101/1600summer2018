@@ -9,11 +9,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 17ff7477eac4f4046ad296e96be2d619, type: 3}
-  m_Name: Helmet
+  m_Name: Chest
   m_EditorClassIdentifier: 
-  name: Helmet
-  Icon: {fileID: 21300000, guid: 81251e56c7b82334c92fc46ce9ec65c9, type: 3}
+  name: New Item
+  Icon: {fileID: 21300000, guid: a1ba95d4593eea84abdb045304300dc8, type: 3}
   isDefaultItem: 0
-  equipSlot: 0
+  equipSlot: 1
+  mesh: {fileID: 137678646946818922, guid: 8d0bdef571ce6b94d9581142a102c0bc, type: 2}
+  coveredMeshRegions: 
   armorModifier: 3
   damageModifier: 0
